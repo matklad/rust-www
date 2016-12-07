@@ -132,8 +132,11 @@ We have two forums for asynchronous discussion:
   implementation discussion about Rust itself (which includes Cargo, the
   standard library, and other core bits of infrastructure).
 
+We also have a [Gitter Room][gitter].
+
 [users_forum]: https://users.rust-lang.org/
 [internals_forum]: https://internals.rust-lang.org/
+[gitter]: https://gitter.im/rust-lang/rust
 
 ## YouTube Channel
 
